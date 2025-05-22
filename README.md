@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prithvi Raj Singh</h1>
-<h3 align="center">A passionate Full Stack Developer with 2+ years of experience</h3>
+<h3 align="center">A passionate Full Stack Developer from India with 2+ years of experience</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prithvi438&label=Profile%20views&color=0e75b6&style=flat" alt="prithvi438" />
@@ -27,6 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
   <img src="https://img.icons8.com/color/48/000000/flutterflow.png" height="40" alt="FlutterFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
@@ -54,8 +55,8 @@
 ### 📌 Featured Projects
 
 - 🚀 [Khoj Khabri – News Website & App](https://khojkhabri.com)
-- 🛰️ GPS Tracking System
-- 🏫 School Management ERP Platform
+- 🛰️ GPS Tracking System – GPS Software & App](https://gps.speedotrack.com)
+- 🏫 School Management ERP Platform – School management software & App](https://app.edusoft.in)
 
 ---
 
