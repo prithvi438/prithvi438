@@ -1,13 +1,10 @@
-Prithvi Raj Singh | Full Stack Developer
+<h2> Prithvi Raj Singh | Full Stack Developer </h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/prithvi-raj-singh-405b43246" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="www.linkedin.com/in/prithvi-raj-singh-405b43246" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-WebApp-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.youtube.com/@KhojKhabriNews" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 </p>
 <p align="center">
@@ -58,6 +55,6 @@ Implementing DevOps practices and CI/CD pipelines for efficient deployment.
 📫 Let's Collaborate!
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of an innovative team. Feel free to reach out to me through any of the platforms below. Let's build something amazing together!
 <p align="center">
-<a href="https://www.linkedin.com/in/prithvirajsingh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:contact@prithviraj.tech"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/prithvi-raj-singh-405b43246" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:rajsinghp87@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
