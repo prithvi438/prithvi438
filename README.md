@@ -3,7 +3,7 @@ Prithvi Raj Singh | Full Stack Developer
 <a href="https://www.linkedin.com/in/prithvirajsingh" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://prithviraj.tech" target="_blank">
+<a href="www.linkedin.com/in/prithvi-raj-singh-405b43246" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-WebApp-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.youtube.com/@KhojKhabriNews" target="_blank">
